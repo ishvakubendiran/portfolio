@@ -1,0 +1,28 @@
+function Projects() {
+  return (
+    <section id="projects" className="bg-gray-900 text-white py-20 px-8">
+      <h2 className="text-3xl font-bold text-center mb-12">My <span className="text-blue-400">Projects</span></h2>
+      <div className="max-w-4xl mx-auto grid grid-cols-1 gap-8">
+        <div className="bg-gray-800 p-8 rounded-xl border border-gray-700 hover:border-blue-400 transition-all duration-300">
+          <div className="flex justify-between items-start mb-4">
+            <h3 className="text-xl font-bold text-white">AI Resume Analyzer</h3>
+            <span className="bg-blue-500 text-white text-sm px-3 py-1 rounded-full">Live</span>
+          </div>
+          <p className="text-gray-400 mb-6 leading-relaxed">A web application that analyzes resumes and matches them with job descriptions using Groq API. Built with React and Tailwind CSS with PDF upload functionality.</p>
+          <div className="flex flex-wrap gap-2 mb-6">
+            <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">React</span>
+            <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">Tailwind CSS</span>
+            <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">Groq API</span>
+            <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">JavaScript</span>
+          </div>
+          <div className="flex gap-4">
+            <a href="https://github.com/ishvakubendiran/ai-resume-analyzer" target="_blank" className="bg-gray-700 hover:bg-gray-600 text-white px-5 py-2 rounded-lg font-medium transition-all duration-300">GitHub</a>
+            <a href="https://ai-resume-analyzer-flame-gamma.vercel.app" target="_blank" className="bg-blue-500 hover:bg-blue-600 text-white px-5 py-2 rounded-lg font-medium transition-all duration-300">Live Demo</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  )
+}
+
+export default Projects
