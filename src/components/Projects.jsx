@@ -8,12 +8,16 @@ function Projects() {
             <h3 className="text-xl font-bold text-white">AI Resume Analyzer</h3>
             <span className="bg-blue-500 text-white text-sm px-3 py-1 rounded-full">Live</span>
           </div>
-          <p className="text-gray-400 mb-6 leading-relaxed">A web application that analyzes resumes and matches them with job descriptions using Groq API. Built with React and Tailwind CSS with PDF upload functionality.</p>
+          <p className="text-gray-400 mb-6 leading-relaxed">A full-stack AI-powered resume analyzer with JWT authentication, PDF upload, ATS scoring, and scan history. Integrates LLaMA 3.3 70B via Groq API. Deployed on Render + Clever Cloud MySQL + Vercel.</p>
           <div className="flex flex-wrap gap-2 mb-6">
-            <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">React</span>
-            <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">Tailwind CSS</span>
-            <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">Groq API</span>
-            <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">JavaScript</span>
+           <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">React</span>
+           <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">Spring Boot</span>
+           <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">Spring Security</span>
+           <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">JWT</span>
+           <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">MySQL</span>
+           <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">Docker</span>
+           <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">Groq API</span>
+           <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">Tailwind CSS</span>
           </div>
           <div className="flex gap-4">
             <a href="https://github.com/ishvakubendiran/ai-resume-analyzer" target="_blank" className="bg-gray-700 hover:bg-gray-600 text-white px-5 py-2 rounded-lg font-medium transition-all duration-300">GitHub</a>
