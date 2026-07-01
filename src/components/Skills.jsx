@@ -10,6 +10,21 @@ function Skills() {
           <p className="text-white font-medium">JavaScript</p>
         </div>
         <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 text-center hover:border-blue-400 transition-all duration-300">
+          <p className="text-white font-medium">Spring Boot</p>
+        </div>
+        <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 text-center hover:border-blue-400 transition-all duration-300">
+          <p className="text-white font-medium">Spring Security</p>
+        </div>
+        <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 text-center hover:border-blue-400 transition-all duration-300">
+          <p className="text-white font-medium">JWT</p>
+        </div>
+        <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 text-center hover:border-blue-400 transition-all duration-300">
+          <p className="text-white font-medium">REST APIs</p>
+        </div>
+        <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 text-center hover:border-blue-400 transition-all duration-300">
+          <p className="text-white font-medium">Hibernate/JPA</p>
+        </div>
+        <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 text-center hover:border-blue-400 transition-all duration-300">
           <p className="text-white font-medium">React</p>
         </div>
         <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 text-center hover:border-blue-400 transition-all duration-300">
@@ -19,10 +34,13 @@ function Skills() {
           <p className="text-white font-medium">CSS</p>
         </div>
         <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 text-center hover:border-blue-400 transition-all duration-300">
+          <p className="text-white font-medium">Tailwind CSS</p>
+        </div>
+        <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 text-center hover:border-blue-400 transition-all duration-300">
           <p className="text-white font-medium">SQL</p>
         </div>
         <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 text-center hover:border-blue-400 transition-all duration-300">
-          <p className="text-white font-medium">Tailwind CSS</p>
+          <p className="text-white font-medium">MySQL</p>
         </div>
         <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 text-center hover:border-blue-400 transition-all duration-300">
           <p className="text-white font-medium">Git</p>

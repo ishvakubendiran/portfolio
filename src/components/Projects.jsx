@@ -40,8 +40,7 @@ function Projects() {
             <span className="bg-gray-700 text-blue-300 text-sm px-3 py-1 rounded-full">Tailwind CSS</span>
           </div>
           <div className="flex gap-4">
-            <a href="https://github.com/ishvakubendiran/emp-management-backend" target="_blank" className="bg-gray-700 hover:bg-gray-600 text-white px-5 py-2 rounded-lg font-medium transition-all duration-300">Backend</a>
-            <a href="https://github.com/ishvakubendiran/emp-management-frontend" target="_blank" className="bg-gray-700 hover:bg-gray-600 text-white px-5 py-2 rounded-lg font-medium transition-all duration-300">Frontend</a>
+            <a href="https://github.com/ishvakubendiran/emp-management-backend" target="_blank" className="bg-gray-700 hover:bg-gray-600 text-white px-5 py-2 rounded-lg font-medium transition-all duration-300">GitHub</a>
             <a href="https://emp-management-frontend-jet.vercel.app" target="_blank" className="bg-blue-500 hover:bg-blue-600 text-white px-5 py-2 rounded-lg font-medium transition-all duration-300">Live Demo</a>
           </div>
         </div>

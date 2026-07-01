@@ -11,11 +11,10 @@ function About() {
         </div>
         <div className="bg-gray-800 p-6 rounded-xl border border-gray-700">
           <h3 className="text-blue-400 font-semibold text-lg mb-2">💻 About</h3>
-          <p className="text-gray-300 leading-relaxed">I am a final year engineering student passionate about software development. I build modern web applications using React and Tailwind CSS. Currently looking for my first job opportunity as a Software Developer.</p>
+          <p className="text-gray-300 leading-relaxed">I am a recent Electronics and Communication Engineering graduate with a passion for software development. I build full-stack web applications using Java, Spring Boot, React, and MySQL, with hands-on experience in secure authentication and REST API design. Currently looking for my first opportunity as a Software Developer.</p>
         </div>
         <div className="bg-gray-800 p-6 rounded-xl border border-gray-700">
-          <h3 className="text-blue-400 font-semibold text-lg mb-2">📍 Location & Availability</h3>
-          <p className="text-gray-300">Krishnagiri, India</p>
+          <h3 className="text-blue-400 font-semibold text-lg mb-2">📍 Availability</h3>
           <p className="text-green-400 font-medium">✅ Available for immediate joining</p>
         </div>
       </div>
